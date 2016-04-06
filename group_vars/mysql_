@@ -1,0 +1,7 @@
+---
+wp_mysql_db: your-db-name
+wp_mysql_user: your-db-user
+wp_mysql_password: your-db-pass
+
+
+# rename this file from mysql_ to mysql and put your own params
